@@ -17,13 +17,13 @@ The AIS dataset includes information such as vessel identity, type, position, sp
 
 ### Authors
 
-**Lawrence Asamoah Osei**
-**Jennifer Yayra Atimpo**
-**Keren Omari-Baah**
-**William Kwasi Akore9** 
+**Lawrence Asamoah Osei**,
+**Jennifer Yayra Atimpo**,
+**Keren Omari-Baah** and
+**William Kwasi Akore9**. 
 
 
 ### Acknowledgments
 
-Special thanks to my project supervisor,Dr. Kwame Agyekumhene , for his invaluable guidance and support throughout this project. His expertise and insights have been crucial in the successful completion and quality of this research.
+Special thanks to my project supervisor,**Dr. Kwame Agyekumhene** , for his invaluable guidance and support throughout this project. His expertise and insights have been crucial in the successful completion and quality of this research.
 
